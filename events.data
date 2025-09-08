@@ -1,0 +1,12 @@
+
+---
+
+### **Observações para GitHub**
+
+- Dentro de `src/resources/events.data` você pode deixar vazio inicialmente.  
+- Estrutura de pacotes:
+
+```java
+package model;     // para User.java, Event.java, EventCategory.java
+package service;   // para EventManager.java
+package app;       // para ConsoleApp.java
