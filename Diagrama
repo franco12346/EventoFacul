@@ -1,0 +1,18 @@
+EventSystem/
+│
+├─ src/
+│   ├─ main/
+│   │   ├─ java/
+│   │   │   ├─ model/
+│   │   │   │   ├─ User.java
+│   │   │   │   ├─ Event.java
+│   │   │   │   └─ EventCategory.java
+│   │   │   ├─ service/
+│   │   │   │   └─ EventManager.java
+│   │   │   └─ app/
+│   │   │       └─ ConsoleApp.java
+│   └─ resources/
+│       └─ events.data
+│
+├─ .gitignore
+└─ README.md
